@@ -1,3 +1,0 @@
-/home/skylak3/Документы/zachet/cmake-build-debug/CMakeFiles/zachet.dir
-/home/skylak3/Документы/zachet/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/skylak3/Документы/zachet/cmake-build-debug/CMakeFiles/rebuild_cache.dir

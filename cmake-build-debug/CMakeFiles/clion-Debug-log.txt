@@ -1,8 +1,0 @@
-/home/skylak3/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/skylak3/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/ninja/linux/x64/ninja -G Ninja -S /home/skylak3/Документы/zachet -B /home/skylak3/Документы/zachet/cmake-build-debug
--- Found the following ICU libraries:
---   uc (required): /usr/lib/libicuuc.so
---   io (required): /usr/lib/libicuio.so
--- Found ICU: /usr/include (found version "74.2") 
--- Configuring done (0.0s)
--- Generating done (0.0s)
--- Build files have been written to: /home/skylak3/Документы/zachet/cmake-build-debug
